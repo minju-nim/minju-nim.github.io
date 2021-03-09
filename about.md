@@ -5,6 +5,16 @@ layout: single
 author_profile: true
 ---
 
+# CURRICULUM VITAE
+
+-----
+
+## INFORMATION
+* Minju Kim
+* e-mail: minju_nim_@naver.com, alswn7621@g.skku.edu
+
+-----
+
 ## RESEARCH INTERESTS
 * Psychometrics
 * Structural Equation Models
@@ -14,9 +24,19 @@ author_profile: true
 -----
 
 ## EDUCATION
-* M.A., Psychology (in progress), SungKyunKwan University, 2021 - present
-* B.A., Data Science, Hallym University, 2020
-* B.A., Psychology, Hallym University, 2020
+* M.A., Quantitative Psychology, SungKyunKwan University, 2021 - present
+* B.A., Data Science, Hallym University, 2017 - 2021
+* B.A., Psychology, Hallym University, 2017 - 2021
+
+-----
+
+## WORKING EXPERIENCE 
+* Student Intern at Diagnosis and Evaluation Center of Expert Consulting, Seoul, South Korea, 2019
+
+-----
+
+## Teaching and Mentoring Experience
+* Student Mentor of Psychologcal Statistics, Hallym University, 2020
 
 -----
 
@@ -28,4 +48,3 @@ author_profile: true
 
 -----
 
-Thanks for reading!
