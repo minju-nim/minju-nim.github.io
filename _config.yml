@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Min-ju Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "계량심리학을 공부하고 있습니다. :)"
+  bio              : "계량심리학을 공부하고 있습니다."
   location         : "South Korea"
   email            :
   links:
@@ -105,7 +105,7 @@ author:
       url: "mailto:minju_nim_@naver.com"
     - label: "Notion"
       icon: "fas fa-fw fa-link"
-      url: "https://www.notion.so/minjukimnotion"
+      url: "https://www.notion.so/minjukimnotion/Minju-s-Notion-1dad0c73e5e4411f971975bc9e66c5b0"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/minju-nim"
