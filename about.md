@@ -35,8 +35,8 @@ author_profile: true
 
 -----
 
-## Teaching and Mentoring Experience
-* Student Mentor of Psychologcal Statistics, Hallym University, 2020
+## TEACHING AND MENTORING EXPERIENCE
+* Student Mentor of Psychologcal Statistics Mentoring, Hallym University, 2020
 
 -----
 
