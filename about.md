@@ -41,7 +41,7 @@ author_profile: true
 -----
 
 ## SKILLS
-### Computer Programming
+### COMPUTER PROGRAMMING
 * R
 * SPSS
 * Python
